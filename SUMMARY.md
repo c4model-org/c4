@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [C4 model](README.md)
 
