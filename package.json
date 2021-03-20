@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "init": "node_modules/gitbook-cli/bin/gitbook.js init",
-    "build": "node_modules/gitbook-cli/bin/gitbook.js build"
+    "build": "yarn install && node_modules/gitbook-cli/bin/gitbook.js build"
   },
   "author": "",
   "license": "ISC",
