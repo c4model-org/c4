@@ -1,0 +1,20 @@
+{
+  "name": "c4model.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node_modules/gitbook-cli/bin/gitbook.js init",
+    "build": "node_modules/gitbook-cli/bin/gitbook.js build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  },
+  "dependencies": {}
+}
