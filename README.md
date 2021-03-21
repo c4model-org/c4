@@ -16,7 +16,7 @@ C4 model is a try to simplify modeling by providing "consistent" notions and mod
 
 We as human needs context to understand a system. However, switching context introduces very high overhead in our brains. The following diagrams are from [https://c4mdoel.com](https://c4mdoel.com). It demonstrates how we can zoom in and out without switching context.
 
-![from https://c4model.com](.gitbook/assets/screen-shot-2021-03-20-at-9.54.36-pm.png)
+![from https://c4model.com](assets/screen-shot-2021-03-20-at-9.54.36-pm.png)
 
 ### Isn't this just UML?
 
