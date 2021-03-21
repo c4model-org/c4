@@ -24,3 +24,5 @@ The above diagrams look like just a use-case diagram, a package diagram, and a c
 
 Well, sort of. C4 model borrows a lot of ideas and notions from UML and it looks like UML. You can say it is a subset of UML. C4 model is good-enough UML for many teams. Especially for those teams that are using ad-hoc boxes and lines, the discipline in C4 will give them immediate benefit with little overhead.
 
+
+
